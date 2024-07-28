@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de programação<br>Analista de suporte N2<br>Desenvolvedor mobile<br>Dart/Flutter<br>Javascript
+Estudante de programação<br>Consultor de implantação pleno<br>Desenvolvedor mobile<br>Dart/Flutter<br>Javascript
 
 
 ## 🌐 Socials:
